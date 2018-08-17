@@ -1,0 +1,9 @@
+﻿  main.cpp
+  parse.cpp
+c:\users\ho\source\repos\client_\client_\parse.cpp(31): warning C4477: 'printf' : format string '%ws' requires an argument of type 'wchar_t *', but variadic argument 4 has type 'CHAR *'
+  c:\users\ho\source\repos\client_\client_\parse.cpp(31): note: consider using '%hs' in the format string
+  c:\users\ho\source\repos\client_\client_\parse.cpp(31): note: consider using '%s' in the format string
+  c:\users\ho\source\repos\client_\client_\parse.cpp(31): note: consider using '%Ts' in the format string
+  Generating Code...
+c:\users\ho\source\repos\client_\client_\parse.cpp(10): warning C4172: returning address of local variable or temporary: buf
+  client_.vcxproj -> C:\Users\ho\source\repos\client_\Debug\client_.exe
